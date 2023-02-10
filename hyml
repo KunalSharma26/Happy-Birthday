@@ -1,0 +1,28 @@
+<DOCTYPE HTML>
+ <html>
+      <head>
+      <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap">
+  <title>Happy Birthday card || Learningrobo</title>
+      </head>
+          <body>
+                <a href =”https://youtu.be/l5LTjJ5Fs3Y” > hello</a>
+               <iframe width="625" height="300" src="https://www.youtube.com/embed/l5LTjJ5Fs3Y?autoplay=1&mute=1"> title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen &showinfo=0></iframe>
+    <div class="card">
+            <p>Scroll down</p>
+             <p></p>
+            <p>scroll more down</p>
+    <img src="https://cdn.pixabay.com/photo/2020/10/06/21/54/cake-5633461__480.png" alt="birthday" class="birthday">
+    <div class="text">
+      <h1>Happy Birthday!</h1>
+      <p>Have a great future..!</p>
+      <p>- </p>
+      ">Kunal</a></div>
+    </div>
+    <div class="space"></div>
+  </div>
+</body>
+ </html>
